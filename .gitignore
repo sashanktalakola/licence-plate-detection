@@ -1,4 +1,4 @@
-backup/
+#backup/
 data/
 .ipynb_checkpoints/
 darknet/
